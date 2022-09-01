@@ -1,6 +1,6 @@
-# Todo
+# A example to Todo App.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+This project was done with Angular.js.
 
 ## Development server
 
